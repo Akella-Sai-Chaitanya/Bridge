@@ -1,0 +1,25 @@
+{
+  "name": "bridge",
+  "version": "1.0.0",
+  "description": "a place where people get together and game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akella-Sai-Chaitanya/Bridge.git"
+  },
+  "author": "chaitanya and vamshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akella-Sai-Chaitanya/Bridge/issues"
+  },
+  "homepage": "https://github.com/Akella-Sai-Chaitanya/Bridge#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "jquery": "^3.1.1",
+    "skeleton-css": "^2.0.4",
+    "socket.io": "^1.7.1"
+  }
+}
